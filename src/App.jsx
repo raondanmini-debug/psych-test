@@ -1,4 +1,3 @@
-```jsx
 import { useState, useEffect, useRef } from 'react';
 import { RadarChart, PolarGrid, PolarAngleAxis, Radar, ResponsiveContainer, Tooltip } from 'recharts';
 
